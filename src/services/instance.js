@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = 'https://be-jobsapp.onrender.com/api/v1';
+const baseURL = "https://be-jobapp.onrender.com/api/v1";
 
 const instance = axios.create({
     baseURL,
